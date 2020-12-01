@@ -1,0 +1,24 @@
+
+#clock {
+ padding: 10px;
+  color: #D37DD7;
+  max-height: 500px;
+  font-size: 150px;
+  max-width: 1000px;
+  margin-left: 300px;
+ background:#0b0012;
+  text-align: center;
+  border: 5px solid #210e2e;
+  border-radius: 20px;
+}
+div {
+    font-family:Book Antiqua ;
+}
+
+body {
+text-decoration-color: white;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #060a1f;
+}
