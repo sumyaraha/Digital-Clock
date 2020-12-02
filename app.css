@@ -1,11 +1,10 @@
-
 #clock {
  padding: 10px;
   color: #D37DD7;
   max-height: 500px;
   font-size: 150px;
   max-width: 1000px;
-  margin-left: 300px;
+  margin-left: 130px;
  background:#0b0012;
   text-align: center;
   border: 5px solid #210e2e;
@@ -21,4 +20,40 @@ text-decoration-color: white;
   align-items: center;
   min-height: 100vh;
   background: #060a1f;
+
 }
+h1 {
+  color:white;
+  text-align: center;
+  margin: 5%;
+  font-size: 50px;
+}
+
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #0f0909;
+}
+
+.topnav a {
+  float: left;
+  color: #D37DD7;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #000000;
+  color: white;
+}
+
